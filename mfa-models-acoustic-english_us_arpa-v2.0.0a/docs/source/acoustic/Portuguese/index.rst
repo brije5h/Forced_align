@@ -1,0 +1,21 @@
+
+
+.. _acoustic_portuguese:
+
+Portuguese
+==========
+
+.. needtable::
+   :types: acoustic
+   :filter: language == "Portuguese"
+   :style: datatable
+   :columns: ID;language;dialect;phoneset;license
+   :class: table-striped
+   :colwidths: 40;20;20;10;10
+
+.. toctree::
+   :hidden:
+
+   Portuguese MFA acoustic model v2_0_0a.md
+   Portuguese CV acoustic model v2_0_0.md
+   Portuguese MFA acoustic model v2_0_0.md
